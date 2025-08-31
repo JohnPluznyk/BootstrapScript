@@ -1,0 +1,1 @@
+xsetroot -solid "#1d1f21" & kitty & exec i3
