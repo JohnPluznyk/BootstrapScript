@@ -1,1 +1,10 @@
-xsetroot -solid "#1d1f21" & kitty & exec i3
+#!/bin/bash
+
+# Set background color
+feh --bg-fill ~/Pictures/Wallpaper/AnimeWallPaper1.jpeg &
+
+# Launch terminal
+kitty &
+
+# Start i3 window manager
+exec i3
