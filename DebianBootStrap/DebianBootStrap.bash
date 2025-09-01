@@ -92,8 +92,8 @@ fi
 # Make sure it's executable
 chmod +x ~/.xinitrc
 
-chmod +x installTools.sh
-chmod +x setupPentest_dirs.sh
+chmod +x ./installTools.sh
+chmod +x ./setupPentest_dirs.sh
 
 ./installTools.sh
 ./setupPentest_dirs.sh
