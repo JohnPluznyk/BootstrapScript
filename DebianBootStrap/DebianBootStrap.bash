@@ -89,11 +89,11 @@ fi
 chmod +x ~/.xinitrc
 
 
-chmod +x install_tools.sh
-chmod +x setup_pentest_dirs.sh
+chmod +x installTools.sh
+chmod +x setupPentest_dirs.sh
 
-./install_tools.sh
-./setup_pentest_dirs.sh
+./installTools.sh
+./setupPentest_dirs.sh
 
 
 
