@@ -79,8 +79,8 @@ cp ./polybar/config.ini ~/.config/polybar/
 # Move your preconfigured .xinitrc into place
 # Make sure your .xinitrc is in the same directory as this script
 if [ -f "./.xinitrc" ]; then
-    mv .xinitrc ~/.xinitrc
-    echo "[+] .xinitrc moved to home directory."
+    cp .xinitrc ~/.xinitrc
+    echo "[+] .xinitrc copied to home directory."
 else
     echo "[!] .xinitrc file not found in the script directory!"
 fi
