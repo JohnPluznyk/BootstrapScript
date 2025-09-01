@@ -99,11 +99,3 @@ chmod +x setupPentest_dirs.sh
 
 # Ask user about reboot
 echo -e "${YELLOW}[*] Do you want to reboot now? (y/*]()"
-
-
-
-
-# cmds just added
-
-mkdir -p ~/.config/polybar
-cp /etc/polybar/config.ini ~/.config/polybar/config.ini
