@@ -43,7 +43,8 @@ apt install -y \
   network-manager \
   alsa-utils \
   htop \
-  firefox-esr
+  firefox-esr \
+  openvpn
 
 echo -e "${GREEN}[*] Installation complete!${RESET}"
 
