@@ -81,6 +81,9 @@ cp ./polybar/config.ini ~/.config/polybar/
 mkdir -p ~/Pictures/Wallpaper
 cp ./Wallpaper/* ~/Pictures/Wallpaper/
 
+# Copy .bashrc file into ~ directory
+cp ./.bashrc ~
+
 # Move your preconfigured .xinitrc into place
 # Make sure your .xinitrc is in the same directory as this script
 if [ -f "./.xinitrc" ]; then
