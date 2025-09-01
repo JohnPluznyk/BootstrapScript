@@ -76,6 +76,10 @@ fi
 mkdir -p ~/.config/polybar
 cp ./polybar/config.ini ~/.config/polybar/
 
+# setup Wallpapers dir and move wallpapers
+mkdir -p ~/Pictures/Wallpaper
+cp ./Wallpaper/* ~/Pictures/Wallpaper/
+
 # Move your preconfigured .xinitrc into place
 # Make sure your .xinitrc is in the same directory as this script
 if [ -f "./.xinitrc" ]; then
@@ -88,14 +92,11 @@ fi
 # Make sure it's executable
 chmod +x ~/.xinitrc
 
-
 chmod +x installTools.sh
 chmod +x setupPentest_dirs.sh
 
 ./installTools.sh
 ./setupPentest_dirs.sh
-
-
 
 # Ask user about reboot
 echo -e "${YELLOW}[*] Do you want to reboot now? (y/*]()"
