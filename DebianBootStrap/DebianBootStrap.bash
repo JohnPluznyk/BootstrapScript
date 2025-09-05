@@ -44,7 +44,8 @@ apt install -y \
   alsa-utils \
   htop \
   firefox-esr \
-  openvpn
+  openvpn \
+  cherrytree
 
 echo -e "${GREEN}[*] Installation complete!${RESET}"
 
