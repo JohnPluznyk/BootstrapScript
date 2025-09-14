@@ -45,7 +45,8 @@ apt install -y \
   htop \
   firefox-esr \
   openvpn \
-  cherrytree
+  cherrytree \
+  thunar
 
 echo -e "${GREEN}[*] Installation complete!${RESET}"
 
