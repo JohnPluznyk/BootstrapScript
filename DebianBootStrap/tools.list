@@ -24,6 +24,7 @@ exiftool
 curl
 seclists
 testssl.sh
+smbclient
 git
 vim
 tmux
