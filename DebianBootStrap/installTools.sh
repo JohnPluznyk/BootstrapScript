@@ -20,4 +20,8 @@ apt update -y
 echo "[+] Installing packages from tools.list..."
 apt install $(tr '\n' ' ' < tools.list) -y
 
+echo "[+] Getting go language"
+wget https://go.dev/dl/go1.25.1.linux-amd64.tar.gz
+
+
 echo "[+] Installation completed!"
