@@ -17,3 +17,5 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 - Need to add g++ compiler
 - Need to test it and make sure it will work properly everytime
 - polybar on laptop is different from desktop because of battery life
+- Need to create a .bashprofile that starts x-server everytime after logging in via tty
+- Need to create a "DotFiles" Directory
