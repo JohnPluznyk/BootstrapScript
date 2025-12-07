@@ -5,7 +5,7 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 2. xinit (X-server launcher)
 3. i3 (Tiling Windows Manger)
 4. feh (Desktop Background)
-5. Kitty (Terminal)
+5. Kitty (Terminal - Doom Vibrant Theme)
 6. PolyBar (Customizable Status Bar)
 7. Thunar (File Manger)
 8. OpenVPN (VPN client)
@@ -21,3 +21,4 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 - Need to create a "DotFiles" Directory
 - Create a custom Debian.iso file with a preseed file to automtae setup further
 - Check to see if Sudo is automatically installed and add user jp to sudoers file
+- Need to start and run x-server and intalize home directory before I try running the bootstrap script and installing everything
