@@ -20,3 +20,4 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 - Need to create a .bashprofile that starts x-server everytime after logging in via tty
 - Need to create a "DotFiles" Directory
 - Create a custom Debian.iso file with a preseed file to automtae setup further
+- Check to see if Sudo is automatically installed and add user jp to sudoers file
