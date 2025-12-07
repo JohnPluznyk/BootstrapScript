@@ -1,4 +1,4 @@
-# BootstrapScript
+# Debian Bootstrap
 A simple Bootstrap script that I will be continuously using.  This so if I can have identical setups from computer to computer.  The hardest about any setup is learning all of the new tools or features.  If I can keep a universal setup acorss systems it should hopefully make my life easier.  Below is all the features that I use.
 
 1. X-server (Display Server)
@@ -19,3 +19,4 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 - polybar on laptop is different from desktop because of battery life
 - Need to create a .bashprofile that starts x-server everytime after logging in via tty
 - Need to create a "DotFiles" Directory
+- Create a custom Debian.iso file with a preseed file to automtae setup further
