@@ -22,3 +22,4 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 - Create a custom Debian.iso file with a preseed file to automtae setup further
 - Check to see if Sudo is automatically installed and add user jp to sudoers file
 - Need to start and run x-server and intalize home directory before I try running the bootstrap script and installing everything
+- Intall emoji package - fonts-noto-color-emoji
