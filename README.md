@@ -11,7 +11,7 @@ A simple Bootstrap script that I will be continuously using.  This so if I can h
 8. OpenVPN (VPN client)
 9. PulseAudio / pavucontrol / alsa-utils (audio)
 10. Firefox-esr (Internet Browser)
-11. fonts-jetbrains-mono (Font)
+11. fonts-jetbrains-mono (Font), JetBrainsMono Nerd Font https://www.nerdfonts.com/font-downloads (Font)
 
 # TODO:
 - Need to add g++ compiler
